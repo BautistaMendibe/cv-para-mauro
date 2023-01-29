@@ -68,3 +68,19 @@ body{
 .text-contact{
     margin-left: 10px;
 }
+
+.first-row-information{
+    height: 50px;
+}
+
+.second-row-information{
+    height: 250px;
+    background-color: #ebc9bb;
+    color: black;
+    padding-left: 40px;
+    padding-top: 60px;
+}
+
+.nombre{
+    font-size: 45px;
+}
