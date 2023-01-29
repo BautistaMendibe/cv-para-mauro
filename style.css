@@ -112,6 +112,20 @@ body{
     .nombre{
         font-size: 35px;
     }
+
+    body{
+        grid-template-columns: 2% 35% 60%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .about-me, .information{
+        font-size: 12px;
+    }
+
+    .third-row-about-me, .third-row-information{
+        padding: 10px;
+    }
 }
 
 @media (max-width: 600px) {
@@ -122,5 +136,14 @@ body{
 
     .nombre{
         font-size: 25px;
+    }
+}
+
+@media (max-width: 450px) {
+    .about-me, .information{
+        font-size: 9px;
+    }
+    .nombre{
+        font-size: 22px;
     }
 }
