@@ -13,8 +13,11 @@ body{
     box-shadow: 12px 0 15px -4px rgba(170, 170, 170, 0.8), -12px 0 8px -4px rgba(170, 170, 170, 0.8);
 }
 
+.border-left{
+    background-color: white;
+}
 
-.header{
+.about-me{
     background-color: #5b8f8f;
 }
 
@@ -45,18 +48,18 @@ body{
     object-fit: cover;
 }
 
-.first-row-header{
+.first-row-about-me{
     height: 50px;
 }
 
-.second-row-header{
+.second-row-about-me{
     height: 250px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.third-row-header{
+.third-row-about-me{
     padding: 30px;
     color: white;
 }
