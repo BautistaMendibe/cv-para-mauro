@@ -2,6 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    font-family: 'Poppins', sans-serif;
 }
 
 body{
@@ -60,7 +61,9 @@ body{
 }
 
 .third-row-about-me{
-    padding: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 40px;
     color: white;
 }
 
