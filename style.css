@@ -94,3 +94,33 @@ body{
 .third-row-information{
     padding: 40px;
 }
+
+
+@media (max-width: 1100px) {
+    body{
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+}
+
+@media (max-width: 700px) {
+    .imagen-perfil{
+        height: 60%;
+        width: 60%;
+    }
+
+    .nombre{
+        font-size: 35px;
+    }
+}
+
+@media (max-width: 600px) {
+    .imagen-perfil{
+        height: 100px;
+        width: 100px;
+    }
+
+    .nombre{
+        font-size: 25px;
+    }
+}
