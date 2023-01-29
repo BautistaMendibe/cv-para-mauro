@@ -58,4 +58,13 @@ body{
 
 .third-row-header{
     padding: 30px;
+    color: white;
+}
+
+.contact{
+    display: flex;
+}
+
+.text-contact{
+    margin-left: 10px;
 }
