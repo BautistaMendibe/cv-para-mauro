@@ -61,7 +61,7 @@ body{
     color: white;
 }
 
-.contact{
+.icon-text{
     display: flex;
 }
 
@@ -83,4 +83,8 @@ body{
 
 .nombre{
     font-size: 45px;
+}
+
+.third-row-information{
+    padding: 40px;
 }
